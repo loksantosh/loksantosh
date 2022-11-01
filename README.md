@@ -3,12 +3,11 @@
 
 
 
-![IMG_2011](https://user-images.githubusercontent.com/25634955/177303284-977ef4e0-c9e2-48f5-a747-15e54d460824.PNG)
 
 
 
 
-- 🌱 I’m currently learning **JavaScript ,nodejs**
+- 🌱 I have experience as a backend developer and worked with the tech stack : **JavaScript ,nodejs ,express ,**
 
 - 📫 How to reach me **gloksantosh4@gmail.com**
 

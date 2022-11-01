@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Guddati Lok Santosh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Guddati Lok Santosh Kumar</h1><br>
 
 
-- 🌱 I have experience as a **backend developer** and worked with the tech stack : **JavaScript ,nodejs ,express ,mongodb**
+- 🌱 I have experience as a **backend developer** and worked with the tech stack : **JavaScript ,nodejs ,express ,mongodb  .**
 
 - 📫 How to reach me **gloksantosh4@gmail.com**
 
